@@ -55,31 +55,31 @@
 ## 📫 Contacto
 
 <p>
-  <a href="mailto:elarraga9152@uta.edu.ec"><img src="https://img.shields.io/badge/-Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="correo" /></a>
-  <a href="https://www.instagram.com/_evelyn_lp"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.tiktok.com/@paniwis_uwu"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://www.twitch.tv/paniwis"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+  <a href="mailto:elarraga9152@uta.edu.ec"><img src="./assets/skills/correo.svg" width="48" alt="Correo" title="Correo" /></a>
+  <a href="https://www.instagram.com/_evelyn_lp"><img src="./assets/skills/instagram.svg" width="48" alt="Instagram" title="Instagram" /></a>
+  <a href="https://www.tiktok.com/@paniwis_uwu"><img src="./assets/skills/tiktok.svg" width="48" alt="TikTok" title="TikTok" /></a>
+  <a href="https://www.twitch.tv/paniwis"><img src="./assets/skills/twitch.svg" width="48" alt="Twitch" title="Twitch" /></a>
   <!-- Descomenta y pon tu enlace cuando tengas LinkedIn
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/TU-USUARIO">LinkedIn</a>
   -->
 </p>
 
 ## 🛠️ Tecnologías y herramientas
 
 <p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="./assets/skills/java.svg" width="48" alt="Java" title="Java" />
+  <img src="./assets/skills/python.svg" width="48" alt="Python" title="Python" />
+  <img src="./assets/skills/javascript.svg" width="48" alt="JavaScript" title="JavaScript" />
+  <img src="./assets/skills/html.svg" width="48" alt="HTML5" title="HTML5" />
+  <img src="./assets/skills/css.svg" width="48" alt="CSS3" title="CSS3" />
+  <img src="./assets/skills/react.svg" width="48" alt="React" title="React" />
+  <img src="./assets/skills/nodejs.svg" width="48" alt="Node.js" title="Node.js" />
+  <img src="./assets/skills/oracle.svg" width="48" alt="Oracle" title="Oracle" />
+  <img src="./assets/skills/git.svg" width="48" alt="Git" title="Git" />
+  <img src="./assets/skills/github.svg" width="48" alt="GitHub" title="GitHub" />
+  <img src="./assets/skills/netbeans.svg" width="48" alt="NetBeans" title="NetBeans" />
+  <img src="./assets/skills/cisco.svg" width="48" alt="Cisco" title="Cisco" />
+  <img src="./assets/skills/wireshark.svg" width="48" alt="Wireshark" title="Wireshark" />
 </p>
 
 ## 📊 Estadísticas
