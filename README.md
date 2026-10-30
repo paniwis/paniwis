@@ -139,3 +139,7 @@
   <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="165" alt="repositorios por lenguaje" />
   <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="165" alt="horario más productivo" />
 </p>
+
+<p align="center">
+  <img src="./assets/bloques.svg" width="100%" alt="Paisaje de bloques en pixel art con un ajolote nadando" />
+</p>
