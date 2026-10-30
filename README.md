@@ -41,6 +41,7 @@
 
 | Proyecto | Descripción | Enlace |
 | --- | --- | --- |
+| **Sistema de Buses Interprovinciales** | Plataforma de transporte interprovincial desarrollada en equipo con Git Flow. Trabajé el módulo de compra de boletos: reservas, pagos y emisión de boletos. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
 | **Sistema de Homologación** | Proyecto final de Metodologías Ágiles para gestionar la homologación de materias, trabajado con Scrum. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
 | **Sistema de Activos Fijos** | Análisis y arquitectura de un sistema de gestión de activos fijos. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
 | **Sitio web de la Asociación** | Página de la carrera con secciones de servicios y asociación estudiantil, usando ramas main, develop y feature. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
@@ -57,6 +58,9 @@
 
 <p>
   <a href="mailto:elarraga9152@uta.edu.ec"><img src="https://img.shields.io/badge/-Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="correo" /></a>
+  <a href="https://www.instagram.com/_evelyn_lp"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@paniwis_uwu"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.twitch.tv/paniwis"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
   <!-- Descomenta y pon tu enlace cuando tengas LinkedIn
   <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   -->
@@ -93,12 +97,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paniwis&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paniwis&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="lenguajes más usados" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="165" alt="estadísticas" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="165" alt="lenguajes más usados" />
 </p>
 
 ## 🧠 Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paniwis&theme=tokyo-night&hide_border=true" alt="gráfico de actividad" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="gráfico de actividad" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="165" alt="repositorios por lenguaje" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="165" alt="horario más productivo" />
 </p>
