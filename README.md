@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/portada.svg" width="100%" alt="Hola, soy Evelyn Larraga, estudiante de Ingeniería de Software en la UTA" />
-</p>
-
-<p align="center">
   <a href="https://github.com/paniwis">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desarrollo+Full+Stack;React+%7C+Node.js+%7C+Java+%7C+Python;Redes+y+Ciberseguridad;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
   </a>
