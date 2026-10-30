@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paniwis&label=Visitas%20al%20perfil&color=a855f7&style=flat" alt="visitas" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=paniwis.paniwis&left_text=Visitas%20al%20perfil&left_color=%23555&right_color=%23a855f7" alt="visitas" />
   <img src="https://img.shields.io/github/followers/paniwis?style=social" alt="seguidores" />
   <img src="https://img.shields.io/github/stars/paniwis?style=social" alt="estrellas" />
 </p>
