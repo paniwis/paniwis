@@ -32,6 +32,7 @@
 
 |  | Proyecto | Descripción | Enlace |
 | :---: | --- | --- | --- |
+| <img src="./assets/ajolote.svg" width="56" alt="Ajolote Tycoon" /> | **Ajolote Tycoon** | Juego clicker de ajolotes en React y Tailwind con guardado automático, logros, tienda de mejoras y tragamonedas. Publicado con GitHub Actions. | [🎮 Jugar](https://paniwis.github.io/ajoloteTycoon) · [Código](https://github.com/paniwis/ajoloteTycoon) |
 | <img src="./assets/oficiosya.svg" width="56" alt="OficiosYA" /> | **OficiosYA** | Marketplace web y móvil para encontrar y ofrecer servicios locales, desarrollado en equipo. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
 | <img src="./assets/karaoke.svg" width="56" alt="Karaoke Web" /> | **Karaoke Web** | Aplicación web de karaoke con letras sincronizadas y sistema de puntuación. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
 | <img src="./assets/registro.svg" width="56" alt="Registro de Visitas" /> | **Registro de Visitas** | Sistema web para registrar visitas, en proceso de mejora y migración a app móvil. | [Código](https://github.com/Belen99158/registro_visitas_site) |
