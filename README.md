@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/github/stars/paniwis?style=social" alt="estrellas" />
 </p>
 
+<p align="center">
+  <a href="https://ko-fi.com/paniwis"><img src="./assets/kofi-banner.svg" width="600" alt="Invítame un café en Ko-fi" /></a>
+</p>
+
 ## 🖐️ Sobre mí
 
 - Mi nombre completo es **Evelyn Larraga**
