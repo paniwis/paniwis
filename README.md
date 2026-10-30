@@ -59,6 +59,7 @@
   <a href="https://www.instagram.com/_evelyn_lp"><img src="./assets/skills/instagram.svg" width="48" alt="Instagram" title="Instagram" /></a>
   <a href="https://www.tiktok.com/@paniwis_uwu"><img src="./assets/skills/tiktok.svg" width="48" alt="TikTok" title="TikTok" /></a>
   <a href="https://www.twitch.tv/paniwis"><img src="./assets/skills/twitch.svg" width="48" alt="Twitch" title="Twitch" /></a>
+  <a href="https://ko-fi.com/paniwis"><img src="./assets/skills/kofi.svg" width="48" alt="Ko-fi" title="Invítame un café en Ko-fi" /></a>
   <!-- Descomenta y pon tu enlace cuando tengas LinkedIn
   <a href="https://www.linkedin.com/in/TU-USUARIO">LinkedIn</a>
   -->
@@ -89,6 +90,10 @@
 </p>
 
 > 💬 *Siempre abierta a colaborar en proyectos, aprender en equipo y conversar sobre tecnología.*
+
+<p align="center">
+  <a href="https://ko-fi.com/paniwis"><img src="https://img.shields.io/badge/Invítame%20un%20café-Ko--fi-FF6433?style=for-the-badge&logo=kofi&logoColor=white" alt="Invítame un café en Ko-fi" /></a>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=paniwis&theme=tokyonight&hide_border=true" alt="racha de contribuciones" />
