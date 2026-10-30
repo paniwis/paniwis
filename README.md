@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="programando" />
+  <img src="./assets/terminal.svg" width="560" alt="terminal animada con datos de Evelyn" />
 </p>
 
 <p align="center">

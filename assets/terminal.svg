@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="330" viewBox="0 0 640 330">
+  <defs>
+    <linearGradient id="borde" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Fira Code','JetBrains Mono',Consolas,'DejaVu Sans Mono',monospace;font-size:16px}
+    @keyframes l0{0%,2.84%{transform:translateX(0px)}2.86%{transform:translateX(19.8px);animation-timing-function:steps(6,end)}6.43%,96%{transform:translateX(91.4px)}100%{transform:translateX(0px)}}.c0{animation:l0 14.0s linear infinite}@keyframes l1{0%,8.91%{transform:translateX(0px)}8.93%{transform:translateX(0.0px);animation-timing-function:steps(1,end)}9.00%,96%{transform:translateX(150.9px)}100%{transform:translateX(0px)}}.c1{animation:l1 14.0s linear infinite}@keyframes l2{0%,12.55%{transform:translateX(0px)}12.57%{transform:translateX(19.8px);animation-timing-function:steps(15,end)}20.07%,96%{transform:translateX(180.6px)}100%{transform:translateX(0px)}}.c2{animation:l2 14.0s linear infinite}@keyframes l3{0%,22.55%{transform:translateX(0px)}22.57%{transform:translateX(0.0px);animation-timing-function:steps(1,end)}22.64%,96%{transform:translateX(289.8px)}100%{transform:translateX(0px)}}.c3{animation:l3 14.0s linear infinite}@keyframes l4{0%,26.19%{transform:translateX(0px)}26.21%{transform:translateX(19.8px);animation-timing-function:steps(9,end)}30.71%,96%{transform:translateX(121.1px)}100%{transform:translateX(0px)}}.c4{animation:l4 14.0s linear infinite}@keyframes l5{0%,33.19%{transform:translateX(0px)}33.21%{transform:translateX(0.0px);animation-timing-function:steps(1,end)}33.29%,96%{transform:translateX(339.4px)}100%{transform:translateX(0px)}}.c5{animation:l5 14.0s linear infinite}@keyframes l6{0%,36.84%{transform:translateX(0px)}36.86%{transform:translateX(19.8px);animation-timing-function:steps(15,end)}44.36%,96%{transform:translateX(180.6px)}100%{transform:translateX(0px)}}.c6{animation:l6 14.0s linear infinite}@keyframes l7{0%,46.84%{transform:translateX(0px)}46.86%{transform:translateX(0.0px);animation-timing-function:steps(1,end)}46.93%,96%{transform:translateX(160.8px)}100%{transform:translateX(0px)}}.c7{animation:l7 14.0s linear infinite}@keyframes fin{0%,50.50%{opacity:0}50.60%,96%{opacity:1}100%{opacity:0}}.fin{animation:fin 14.0s linear infinite}@keyframes parpadeo{0%,50%{opacity:1}51%,100%{opacity:0}}.cursor{animation:parpadeo 1s step-end infinite}
+  </style>
+  <rect x="2" y="2" width="636" height="326" rx="14" fill="#1a1b26" stroke="url(#borde)" stroke-width="3"/>
+  <path d="M2 16 a14 14 0 0 1 14 -14 H624 a14 14 0 0 1 14 14 V40 H2 Z" fill="#24283b"/>
+  <circle cx="24" cy="21" r="6" fill="#f7768e"/>
+  <circle cx="44" cy="21" r="6" fill="#e0af68"/>
+  <circle cx="64" cy="21" r="6" fill="#9ece6a"/>
+  <text x="320.0" y="26" text-anchor="middle" fill="#a9b1d6" style="font-size:14px">evelyn@ambato: ~</text>
+  <clipPath id="area"><rect x="6" y="42" width="628" height="280"/></clipPath>
+  <g clip-path="url(#area)">
+    <text x="28" y="78" xml:space="preserve"><tspan fill="#bb9af7">$ </tspan><tspan fill="#c0caf5">whoami</tspan></text>
+  <rect class="c0" x="26" y="62" width="95.4" height="27" fill="#1a1b26"/>
+  <text x="28" y="105" xml:space="preserve"><tspan fill="#e0af68">Evelyn Larraga</tspan></text>
+  <rect class="c1" x="26" y="89" width="154.9" height="27" fill="#1a1b26"/>
+  <text x="28" y="132" xml:space="preserve"><tspan fill="#bb9af7">$ </tspan><tspan fill="#c0caf5">cat carrera.txt</tspan></text>
+  <rect class="c2" x="26" y="116" width="184.6" height="27" fill="#1a1b26"/>
+  <text x="28" y="159" xml:space="preserve"><tspan fill="#7dcfff">Ingeniería de Software · UTA</tspan></text>
+  <rect class="c3" x="26" y="143" width="293.8" height="27" fill="#1a1b26"/>
+  <text x="28" y="186" xml:space="preserve"><tspan fill="#bb9af7">$ </tspan><tspan fill="#c0caf5">ls stack/</tspan></text>
+  <rect class="c4" x="26" y="170" width="125.1" height="27" fill="#1a1b26"/>
+  <text x="28" y="213" xml:space="preserve"><tspan fill="#7aa2f7">react  </tspan><tspan fill="#9ece6a">node  </tspan><tspan fill="#ff9e64">java  </tspan><tspan fill="#e0af68">python  </tspan><tspan fill="#f7768e">oracle</tspan></text>
+  <rect class="c5" x="26" y="197" width="343.4" height="27" fill="#1a1b26"/>
+  <text x="28" y="240" xml:space="preserve"><tspan fill="#bb9af7">$ </tspan><tspan fill="#c0caf5">echo $UBICACION</tspan></text>
+  <rect class="c6" x="26" y="224" width="184.6" height="27" fill="#1a1b26"/>
+  <text x="28" y="267" xml:space="preserve"><tspan fill="#bb9af7">Ambato, Ecuador</tspan></text>
+  <rect class="c7" x="26" y="251" width="164.8" height="27" fill="#1a1b26"/>
+  <g class="fin"><text x="28" y="294" fill="#bb9af7">$</text><rect class="cursor" x="47.84" y="280" width="9.9" height="18" fill="#c0caf5"/></g>
+  </g>
+</svg>
