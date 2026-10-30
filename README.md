@@ -31,28 +31,26 @@
 
 ### 🚀 Proyectos personales
 
-| Proyecto | Descripción | Enlace |
-| --- | --- | --- |
-| **OficiosYA** | Marketplace web y móvil para encontrar y ofrecer servicios locales, desarrollado en equipo. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-| **Karaoke Web** | Aplicación web de karaoke con letras sincronizadas y sistema de puntuación. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-| **Registro de Visitas** | Sistema web para registrar visitas, en proceso de mejora y migración a app móvil. | [Código](https://github.com/Belen99158/registro_visitas_site) |
+|  | Proyecto | Descripción | Enlace |
+| :---: | --- | --- | --- |
+| <img src="./assets/oficiosya.svg" width="56" alt="OficiosYA" /> | **OficiosYA** | Marketplace web y móvil para encontrar y ofrecer servicios locales, desarrollado en equipo. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
+| <img src="./assets/karaoke.svg" width="56" alt="Karaoke Web" /> | **Karaoke Web** | Aplicación web de karaoke con letras sincronizadas y sistema de puntuación. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
+| <img src="./assets/registro.svg" width="56" alt="Registro de Visitas" /> | **Registro de Visitas** | Sistema web para registrar visitas, en proceso de mejora y migración a app móvil. | [Código](https://github.com/Belen99158/registro_visitas_site) |
 
 ### 🎓 Proyectos académicos
 
-| Proyecto | Descripción | Enlace |
-| --- | --- | --- |
-| **Sistema de Buses Interprovinciales** | Plataforma de transporte interprovincial desarrollada en equipo con Git Flow. Trabajé el módulo de compra de boletos: reservas, pagos y emisión de boletos. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-| **Sistema de Homologación** | Proyecto final de Metodologías Ágiles para gestionar la homologación de materias, trabajado con Scrum. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-| **Sistema de Activos Fijos** | Análisis y arquitectura de un sistema de gestión de activos fijos. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-| **Sitio web de la Asociación** | Página de la carrera con secciones de servicios y asociación estudiantil, usando ramas main, develop y feature. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-| **Red de Campus** | Diseño de una red de campus en Cisco Packet Tracer con VLAN, STP, EtherChannel e Inter-VLAN. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
+|  | Proyecto | Descripción | Enlace |
+| :---: | --- | --- | --- |
+| <img src="./assets/buses.svg" width="56" alt="Sistema de Buses Interprovinciales" /> | **Sistema de Buses Interprovinciales** | Plataforma de transporte interprovincial desarrollada en equipo con Git Flow. Trabajé el módulo de compra de boletos: reservas, pagos y emisión de boletos. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
+| <img src="./assets/homologacion.svg" width="56" alt="Sistema de Homologación" /> | **Sistema de Homologación** | Proyecto final de Metodologías Ágiles para gestionar la homologación de materias, trabajado con Scrum. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
+| <img src="./assets/activos.svg" width="56" alt="Sistema de Activos Fijos" /> | **Sistema de Activos Fijos** | Análisis y arquitectura de un sistema de gestión de activos fijos. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
 
 ### 📚 Aprendizaje
 
-| Tema | Descripción | Enlace |
-| --- | --- | --- |
-| **Oracle SQL** | Prácticas de consultas, JOIN, funciones de grupo y subconsultas. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-| **Git y ramas** | Ejercicios de comandos básicos, ramas y control de versiones. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
+|  | Tema | Descripción | Enlace |
+| :---: | --- | --- | --- |
+| <img src="./assets/oracle.svg" width="56" alt="Oracle SQL" /> | **Oracle SQL** | Prácticas de consultas, JOIN, funciones de grupo y subconsultas. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
+| <img src="./assets/git.svg" width="56" alt="Git y ramas" /> | **Git y ramas** | Ejercicios de comandos básicos, ramas y control de versiones. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
 
 ## 📫 Contacto
 
