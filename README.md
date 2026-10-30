@@ -23,7 +23,6 @@
 - Estudio **Ingeniería de Software** en la Facultad de Ingeniería en Sistemas, Electrónica e Industrial (FISEI) de la UTA
 - Me estoy formando como **desarrolladora Full Stack** con React, Node.js, Java y Python
 - También me interesan las **redes y la ciberseguridad**, con certificaciones de Cisco y HackerMentor
-- He trabajado con bases de datos Oracle, estructuras de datos, métodos numéricos y estadística
 - Me gusta aplicar metodologías ágiles y trabajar con Git Flow en proyectos de equipo
 - 📍 Ambato, Ecuador
 
