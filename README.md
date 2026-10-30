@@ -1,5 +1,6 @@
-<h1 align="center">Hola 👋, soy Evelyn Larraga</h1>
-<h3 align="center">Estudiante de Ingeniería de Software en la Universidad Técnica de Ambato, Ecuador</h3>
+<p align="center">
+  <img src="./assets/portada.svg" width="100%" alt="Hola, soy Evelyn Larraga, estudiante de Ingeniería de Software en la UTA" />
+</p>
 
 <p align="center">
   <a href="https://github.com/paniwis">
@@ -21,6 +22,8 @@
   <a href="https://ko-fi.com/paniwis"><img src="./assets/kofi-banner.svg" width="600" alt="Invítame un café en Ko-fi" /></a>
 </p>
 
+<img src="./assets/separador.svg" width="100%" alt="" />
+
 ## 🖐️ Sobre mí
 
 - Mi nombre completo es **Evelyn Larraga**
@@ -29,6 +32,8 @@
 - También me interesan las **redes y la ciberseguridad**, con certificaciones de Cisco y HackerMentor
 - Me gusta aplicar metodologías ágiles y trabajar con Git Flow en proyectos de equipo
 - 📍 Ambato, Ecuador
+
+<img src="./assets/separador.svg" width="100%" alt="" />
 
 ## 💻 Proyectos
 
@@ -56,6 +61,8 @@
 | <img src="./assets/oracle.svg" width="56" alt="Oracle SQL" /> | **Oracle SQL** | Prácticas de consultas, JOIN, funciones de grupo y subconsultas. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
 | <img src="./assets/git.svg" width="56" alt="Git y ramas" /> | **Git y ramas** | Ejercicios de comandos básicos, ramas y control de versiones. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
 
+<img src="./assets/separador.svg" width="100%" alt="" />
+
 ## 📫 Contacto
 
 <p>
@@ -64,10 +71,10 @@
   <a href="https://www.tiktok.com/@paniwis_uwu"><img src="./assets/skills/tiktok.svg" width="48" alt="TikTok" title="TikTok" /></a>
   <a href="https://www.twitch.tv/paniwis"><img src="./assets/skills/twitch.svg" width="48" alt="Twitch" title="Twitch" /></a>
   <a href="https://ko-fi.com/paniwis"><img src="./assets/skills/kofi.svg" width="48" alt="Ko-fi" title="Invítame un café en Ko-fi" /></a>
-  <!-- Descomenta y pon tu enlace cuando tengas LinkedIn
-  <a href="https://www.linkedin.com/in/TU-USUARIO">LinkedIn</a>
-  -->
+  <a href="https://www.linkedin.com/in/evelyn-larraga-pullas-28147530a/"><img src="./assets/skills/linkedin.svg" width="48" alt="LinkedIn" title="LinkedIn" /></a>
 </p>
+
+<img src="./assets/separador.svg" width="100%" alt="" />
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -86,6 +93,22 @@
   <img src="./assets/skills/cisco.svg" width="48" alt="Cisco" title="Cisco" />
   <img src="./assets/skills/wireshark.svg" width="48" alt="Wireshark" title="Wireshark" />
 </p>
+
+<img src="./assets/separador.svg" width="100%" alt="" />
+
+## 🏅 Certificaciones
+
+|  | Certificación | Institución | Año |
+| :---: | --- | --- | :---: |
+| <img src="./assets/skills/cisco.svg" width="40" alt="Cisco Networking Academy" /> | **Networking Basics** | Cisco Networking Academy | 2025 |
+| <img src="./assets/skills/cisco.svg" width="40" alt="Cisco Networking Academy" /> | **Linux Unhatched** | Cisco Networking Academy | 2025 |
+| <img src="./assets/skills/cisco.svg" width="40" alt="Cisco Networking Academy" /> | **Introduction to Cybersecurity** | Cisco Networking Academy | 2024 |
+| <img src="./assets/skills/hackermentor.svg" width="40" alt="HackerMentor" /> | **Informática Forense** | HackerMentor | 2025 |
+| <img src="./assets/skills/hackermentor.svg" width="40" alt="HackerMentor" /> | **Ethical Hacking: Red Team** | HackerMentor | 2022 |
+
+<p align="center"><a href="https://www.linkedin.com/in/evelyn-larraga-pullas-28147530a/">Ver todas en LinkedIn</a></p>
+
+<img src="./assets/separador.svg" width="100%" alt="" />
 
 ## 📊 Estadísticas
 
@@ -107,6 +130,8 @@
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="165" alt="estadísticas" />
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="165" alt="lenguajes más usados" />
 </p>
+
+<img src="./assets/separador.svg" width="100%" alt="" />
 
 ## 🧠 Actividad
 

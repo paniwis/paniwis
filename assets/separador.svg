@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="10" viewBox="0 0 1000 10">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="500" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="0.33" stop-color="#ec4899"/>
+      <stop offset="0.66" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1000" height="10" rx="5"/></clipPath>
+  </defs>
+  <style>
+    .mueve { animation: m 4s linear infinite; }
+    @keyframes m { from { transform: translateX(0); } to { transform: translateX(-500px); } }
+  </style>
+  <g clip-path="url(#c)">
+    <rect class="mueve" width="2000" height="10" fill="url(#g)"/>
+  </g>
+</svg>
