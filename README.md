@@ -31,6 +31,38 @@
 
 <img src="./assets/separador.svg" width="100%" alt="" />
 
+## 💻 Proyectos
+
+### 🚀 Proyectos personales
+
+<p align="center">
+  <a href="https://paniwis.github.io/ajoloteTycoon"><img src="./assets/proyectos/ajolote-tycoon.svg" width="49%" alt="Ajolote Tycoon" /></a>
+  <img src="./assets/proyectos/necroforge.svg" width="49%" alt="Necroforge" />
+</p>
+<p align="center">
+  <img src="./assets/proyectos/registro-visitas.svg" width="49%" alt="Registro de Visitas" />
+  <img src="./assets/proyectos/oficiosya.svg" width="49%" alt="OficiosYA" />
+</p>
+<p align="center">
+  <img src="./assets/proyectos/djhuevitobot.svg" width="49%" alt="DjHuevitobot" />
+  <img src="./assets/proyectos/mascota.svg" width="49%" alt="Mascota Virtual" />
+</p>
+<p align="center">
+  <img src="./assets/proyectos/karaoke.svg" width="49%" alt="Karaoke Web" />
+</p>
+
+### 🎓 Proyectos académicos
+
+<p align="center">
+  <img src="./assets/proyectos/buses.svg" width="49%" alt="Sistema de Buses Interprovinciales" />
+  <img src="./assets/proyectos/homologacion.svg" width="49%" alt="Sistema de Homologación" />
+</p>
+<p align="center">
+  <img src="./assets/proyectos/activos.svg" width="49%" alt="Sistema de Activos Fijos" />
+</p>
+
+<img src="./assets/separador.svg" width="100%" alt="" />
+
 ## 🏅 Certificaciones
 
 |  | Certificación | Institución | Año |
@@ -45,36 +77,15 @@
 
 <img src="./assets/separador.svg" width="100%" alt="" />
 
-## 💻 Proyectos
-
-### 🚀 Proyectos personales
-
-|  | Proyecto | Descripción | Enlace |
-| :---: | --- | --- | --- |
-| <img src="./assets/ajolote.svg" width="56" alt="Ajolote Tycoon" /> | **Ajolote Tycoon** | Juego clicker de ajolotes en React y Tailwind con guardado automático, logros, tienda de mejoras y tragamonedas. Publicado con GitHub Actions. | [🎮 Jugar](https://paniwis.github.io/ajoloteTycoon) · [Código](https://github.com/paniwis/ajoloteTycoon) |
-| <img src="./assets/oficiosya.svg" width="56" alt="OficiosYA" /> | **OficiosYA** | Marketplace web y móvil para encontrar y ofrecer servicios locales, desarrollado en equipo. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-| <img src="./assets/karaoke.svg" width="56" alt="Karaoke Web" /> | **Karaoke Web** | Aplicación web de karaoke con letras sincronizadas y sistema de puntuación. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-| <img src="./assets/registro.svg" width="56" alt="Registro de Visitas" /> | **Registro de Visitas** | Sistema web para registrar visitas, en proceso de mejora y migración a app móvil. | [Código](https://github.com/Belen99158/registro_visitas_site) |
-
-### 🎓 Proyectos académicos
-
-|  | Proyecto | Descripción | Enlace |
-| :---: | --- | --- | --- |
-| <img src="./assets/buses.svg" width="56" alt="Sistema de Buses Interprovinciales" /> | **Sistema de Buses Interprovinciales** | Plataforma de transporte interprovincial desarrollada en equipo con Git Flow. Trabajé el módulo de compra de boletos: reservas, pagos y emisión de boletos. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-| <img src="./assets/homologacion.svg" width="56" alt="Sistema de Homologación" /> | **Sistema de Homologación** | Proyecto final de Metodologías Ágiles para gestionar la homologación de materias, trabajado con Scrum. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-| <img src="./assets/activos.svg" width="56" alt="Sistema de Activos Fijos" /> | **Sistema de Activos Fijos** | Análisis y arquitectura de un sistema de gestión de activos fijos. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-
-<img src="./assets/separador.svg" width="100%" alt="" />
-
 ## 📫 Contacto
 
-<p>
-  <a href="mailto:elarraga9152@uta.edu.ec"><img src="./assets/skills/correo.svg" width="48" alt="Correo" title="Correo" /></a>
-  <a href="https://www.instagram.com/_evelyn_lp"><img src="./assets/skills/instagram.svg" width="48" alt="Instagram" title="Instagram" /></a>
-  <a href="https://www.tiktok.com/@paniwis_uwu"><img src="./assets/skills/tiktok.svg" width="48" alt="TikTok" title="TikTok" /></a>
-  <a href="https://www.twitch.tv/paniwis"><img src="./assets/skills/twitch.svg" width="48" alt="Twitch" title="Twitch" /></a>
-  <a href="https://ko-fi.com/paniwis"><img src="./assets/skills/kofi.svg" width="48" alt="Ko-fi" title="Invítame un café en Ko-fi" /></a>
-  <a href="https://www.linkedin.com/in/evelyn-larraga-pullas-28147530a/"><img src="./assets/skills/linkedin.svg" width="48" alt="LinkedIn" title="LinkedIn" /></a>
+<p align="center">
+  <a href="mailto:elarraga9152@uta.edu.ec"><img src="./assets/contacto/correo.svg" width="56" alt="Correo" title="Correo" /></a>
+  <a href="https://www.linkedin.com/in/evelyn-larraga-pullas-28147530a/"><img src="./assets/contacto/linkedin.svg" width="56" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://www.instagram.com/_evelyn_lp"><img src="./assets/contacto/instagram.svg" width="56" alt="Instagram" title="Instagram" /></a>
+  <a href="https://www.tiktok.com/@paniwis_uwu"><img src="./assets/contacto/tiktok.svg" width="56" alt="TikTok" title="TikTok" /></a>
+  <a href="https://www.twitch.tv/paniwis"><img src="./assets/contacto/twitch.svg" width="56" alt="Twitch" title="Twitch" /></a>
+  <a href="https://ko-fi.com/paniwis"><img src="./assets/contacto/kofi.svg" width="56" alt="Ko-fi" title="Ko-fi" /></a>
 </p>
 
 <img src="./assets/separador.svg" width="100%" alt="" />

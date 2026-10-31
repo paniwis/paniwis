@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="140" viewBox="0 -6 128 140">
+  <style>
+    .salta { animation: salta 2.4s ease-in-out 1.0s infinite; }
+    @keyframes salta { 0%, 60%, 100% { transform: translateY(0); } 30% { transform: translateY(-6px); } }
+    .aro { animation: aro 2.4s ease-out 1.0s infinite; transform-origin: 64px 64px; }
+    @keyframes aro { 0%, 20% { opacity: 0; transform: scale(0.9); } 35% { opacity: 0.8; } 70%, 100% { opacity: 0; transform: scale(1.04); } }
+  </style>
+  <g class="salta">
+    
+  <rect width="128" height="128" rx="28" fill="#242938"/>
+  <svg x="26" y="26" width="76" height="76" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet"><path fill="#9146FF" d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714Z"/></svg>
+
+    <rect class="aro" x="1" y="1" width="126" height="126" rx="28" fill="none" stroke="#9146FF" stroke-width="3"/>
+  </g>
+</svg>

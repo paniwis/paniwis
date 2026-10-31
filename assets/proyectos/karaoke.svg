@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200">
+  <defs>
+    <linearGradient id="karaoke-borde" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="karaoke-brillo" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="karaoke-marco"><rect x="2" y="2" width="476" height="196" rx="18"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI','Helvetica Neue',Arial,sans-serif; }
+    .barre { animation: barre 6s ease-in-out infinite; }
+    @keyframes barre { 0%, 55% { transform: translateX(-200px); } 100% { transform: translateX(520px); } }
+    .flota { animation: flota 3.5s ease-in-out infinite; }
+    @keyframes flota { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+    .late { animation: late 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes late { 50% { transform: scale(1.06); } }
+  </style>
+  <rect x="2" y="2" width="476" height="196" rx="18" fill="#161b22" stroke="url(#karaoke-borde)" stroke-width="2"/>
+  <g clip-path="url(#karaoke-marco)">
+    <rect class="barre" x="0" y="0" width="160" height="200" fill="url(#karaoke-brillo)"/>
+  </g>
+  <g class="flota"><svg x="24" y="24" width="80" height="80" viewBox="0 0 96 96">
+  <defs>
+    <linearGradient id="karaoke-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="22" fill="url(#karaoke-g)"/>
+  <g fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="38" y="16" width="20" height="36" rx="10"/>
+      <path d="M28 42 a20 20 0 0 0 40 0"/>
+      <path d="M48 62 V76 M38 76 H58"/>
+  </g>
+</svg></g>
+  <text x="124" y="46" fill="#ffffff" font-size="21" font-weight="700">Karaoke Web</text>
+  <text x="124" y="66" fill="#ec4899" font-size="12" font-weight="600" letter-spacing="0.5">APLICACIÓN WEB</text>
+  <text x="124" y="92" fill="#c9d1d9" font-size="14">Karaoke con letras sincronizadas, música desde</text><text x="124" y="112" fill="#c9d1d9" font-size="14">YouTube y Spotify, y puntuación por</text><text x="124" y="132" fill="#c9d1d9" font-size="14">reconocimiento de voz.</text>
+  <rect x="24" y="160" width="53" height="24" rx="12" fill="#a855f7" fill-opacity="0.16" stroke="#a855f7" stroke-opacity="0.5"/><text x="50.5" y="176.5" fill="#e6edf3" font-size="12" text-anchor="middle">React</text><rect x="85" y="160" width="46" height="24" rx="12" fill="#a855f7" fill-opacity="0.16" stroke="#a855f7" stroke-opacity="0.5"/><text x="108.0" y="176.5" fill="#e6edf3" font-size="12" text-anchor="middle">Vite</text><rect x="139" y="160" width="95" height="24" rx="12" fill="#a855f7" fill-opacity="0.16" stroke="#a855f7" stroke-opacity="0.5"/><text x="186.5" y="176.5" fill="#e6edf3" font-size="12" text-anchor="middle">Spotify API</text><rect x="242" y="160" width="88" height="24" rx="12" fill="#a855f7" fill-opacity="0.16" stroke="#a855f7" stroke-opacity="0.5"/><text x="286.0" y="176.5" fill="#e6edf3" font-size="12" text-anchor="middle">Web Speech</text>
+  
+</svg>
