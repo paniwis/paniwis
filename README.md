@@ -92,20 +92,20 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-<p>
-  <img src="./assets/skills/java.svg" width="48" alt="Java" title="Java" />
-  <img src="./assets/skills/python.svg" width="48" alt="Python" title="Python" />
-  <img src="./assets/skills/javascript.svg" width="48" alt="JavaScript" title="JavaScript" />
-  <img src="./assets/skills/html.svg" width="48" alt="HTML5" title="HTML5" />
-  <img src="./assets/skills/css.svg" width="48" alt="CSS3" title="CSS3" />
-  <img src="./assets/skills/react.svg" width="48" alt="React" title="React" />
-  <img src="./assets/skills/nodejs.svg" width="48" alt="Node.js" title="Node.js" />
-  <img src="./assets/skills/oracle.svg" width="48" alt="Oracle" title="Oracle" />
-  <img src="./assets/skills/git.svg" width="48" alt="Git" title="Git" />
-  <img src="./assets/skills/github.svg" width="48" alt="GitHub" title="GitHub" />
-  <img src="./assets/skills/netbeans.svg" width="48" alt="NetBeans" title="NetBeans" />
-  <img src="./assets/skills/cisco.svg" width="48" alt="Cisco" title="Cisco" />
-  <img src="./assets/skills/wireshark.svg" width="48" alt="Wireshark" title="Wireshark" />
+<p align="center">
+  <img src="./assets/tecnologias/java.svg" width="56" alt="Java" title="Java" />
+  <img src="./assets/tecnologias/python.svg" width="56" alt="Python" title="Python" />
+  <img src="./assets/tecnologias/javascript.svg" width="56" alt="JavaScript" title="JavaScript" />
+  <img src="./assets/tecnologias/html.svg" width="56" alt="HTML5" title="HTML5" />
+  <img src="./assets/tecnologias/css.svg" width="56" alt="CSS3" title="CSS3" />
+  <img src="./assets/tecnologias/react.svg" width="56" alt="React" title="React" />
+  <img src="./assets/tecnologias/nodejs.svg" width="56" alt="Node.js" title="Node.js" />
+  <img src="./assets/tecnologias/oracle.svg" width="56" alt="Oracle" title="Oracle" />
+  <img src="./assets/tecnologias/git.svg" width="56" alt="Git" title="Git" />
+  <img src="./assets/tecnologias/github.svg" width="56" alt="GitHub" title="GitHub" />
+  <img src="./assets/tecnologias/netbeans.svg" width="56" alt="NetBeans" title="NetBeans" />
+  <img src="./assets/tecnologias/cisco.svg" width="56" alt="Cisco" title="Cisco" />
+  <img src="./assets/tecnologias/wireshark.svg" width="56" alt="Wireshark" title="Wireshark" />
 </p>
 
 <img src="./assets/separador.svg" width="100%" alt="" />
