@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ko-fi.com/paniwis"><img src="./assets/kofi-banner.svg" width="600" alt="Invítame un café en Ko-fi" /></a>
+  <a href="https://ko-fi.com/paniwis"><img src="./assets/kofi-banner.svg" width="360" alt="Invítame un café en Ko-fi" /></a>
 </p>
 
 <img src="./assets/separador.svg" width="100%" alt="" />
@@ -28,6 +28,20 @@
 - También me interesan las **redes y la ciberseguridad**, con certificaciones de Cisco y HackerMentor
 - Me gusta aplicar metodologías ágiles y trabajar con Git Flow en proyectos de equipo
 - 📍 Ambato, Ecuador
+
+<img src="./assets/separador.svg" width="100%" alt="" />
+
+## 🏅 Certificaciones
+
+|  | Certificación | Institución | Año |
+| :---: | --- | --- | :---: |
+| <img src="./assets/skills/cisco.svg" width="40" alt="Cisco Networking Academy" /> | **Networking Basics** | Cisco Networking Academy | 2025 |
+| <img src="./assets/skills/cisco.svg" width="40" alt="Cisco Networking Academy" /> | **Linux Unhatched** | Cisco Networking Academy | 2025 |
+| <img src="./assets/skills/cisco.svg" width="40" alt="Cisco Networking Academy" /> | **Introduction to Cybersecurity** | Cisco Networking Academy | 2024 |
+| <img src="./assets/skills/hackermentor.svg" width="40" alt="HackerMentor" /> | **Informática Forense** | HackerMentor | 2025 |
+| <img src="./assets/skills/hackermentor.svg" width="40" alt="HackerMentor" /> | **Ethical Hacking: Red Team** | HackerMentor | 2022 |
+
+<p align="center"><a href="https://www.linkedin.com/in/evelyn-larraga-pullas-28147530a/">Ver todas en LinkedIn</a></p>
 
 <img src="./assets/separador.svg" width="100%" alt="" />
 
@@ -49,13 +63,6 @@
 | <img src="./assets/buses.svg" width="56" alt="Sistema de Buses Interprovinciales" /> | **Sistema de Buses Interprovinciales** | Plataforma de transporte interprovincial desarrollada en equipo con Git Flow. Trabajé el módulo de compra de boletos: reservas, pagos y emisión de boletos. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
 | <img src="./assets/homologacion.svg" width="56" alt="Sistema de Homologación" /> | **Sistema de Homologación** | Proyecto final de Metodologías Ágiles para gestionar la homologación de materias, trabajado con Scrum. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
 | <img src="./assets/activos.svg" width="56" alt="Sistema de Activos Fijos" /> | **Sistema de Activos Fijos** | Análisis y arquitectura de un sistema de gestión de activos fijos. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-
-### 📚 Aprendizaje
-
-|  | Tema | Descripción | Enlace |
-| :---: | --- | --- | --- |
-| <img src="./assets/oracle.svg" width="56" alt="Oracle SQL" /> | **Oracle SQL** | Prácticas de consultas, JOIN, funciones de grupo y subconsultas. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
-| <img src="./assets/git.svg" width="56" alt="Git y ramas" /> | **Git y ramas** | Ejercicios de comandos básicos, ramas y control de versiones. | [Código](https://github.com/paniwis) <!-- reemplaza con el enlace del repo --> |
 
 <img src="./assets/separador.svg" width="100%" alt="" />
 
@@ -89,20 +96,6 @@
   <img src="./assets/skills/cisco.svg" width="48" alt="Cisco" title="Cisco" />
   <img src="./assets/skills/wireshark.svg" width="48" alt="Wireshark" title="Wireshark" />
 </p>
-
-<img src="./assets/separador.svg" width="100%" alt="" />
-
-## 🏅 Certificaciones
-
-|  | Certificación | Institución | Año |
-| :---: | --- | --- | :---: |
-| <img src="./assets/skills/cisco.svg" width="40" alt="Cisco Networking Academy" /> | **Networking Basics** | Cisco Networking Academy | 2025 |
-| <img src="./assets/skills/cisco.svg" width="40" alt="Cisco Networking Academy" /> | **Linux Unhatched** | Cisco Networking Academy | 2025 |
-| <img src="./assets/skills/cisco.svg" width="40" alt="Cisco Networking Academy" /> | **Introduction to Cybersecurity** | Cisco Networking Academy | 2024 |
-| <img src="./assets/skills/hackermentor.svg" width="40" alt="HackerMentor" /> | **Informática Forense** | HackerMentor | 2025 |
-| <img src="./assets/skills/hackermentor.svg" width="40" alt="HackerMentor" /> | **Ethical Hacking: Red Team** | HackerMentor | 2022 |
-
-<p align="center"><a href="https://www.linkedin.com/in/evelyn-larraga-pullas-28147530a/">Ver todas en LinkedIn</a></p>
 
 <img src="./assets/separador.svg" width="100%" alt="" />
 
