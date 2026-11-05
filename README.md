@@ -37,7 +37,6 @@
 
 <p align="center">
   <a href="https://paniwis.github.io/ajoloteTycoon"><img src="./assets/proyectos/ajolote-tycoon.svg" width="49%" alt="Ajolote Tycoon" /></a>
-  <img src="./assets/proyectos/necroforge.svg" width="49%" alt="Necroforge" />
 </p>
 <p align="center">
   <img src="./assets/proyectos/registro-visitas.svg" width="49%" alt="Registro de Visitas" />
@@ -45,7 +44,6 @@
 </p>
 <p align="center">
   <img src="./assets/proyectos/djhuevitobot.svg" width="49%" alt="DjHuevitobot" />
-  <img src="./assets/proyectos/mascota.svg" width="49%" alt="Mascota Virtual" />
 </p>
 <p align="center">
   <img src="./assets/proyectos/karaoke.svg" width="49%" alt="Karaoke Web" />
